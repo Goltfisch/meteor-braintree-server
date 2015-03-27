@@ -1,0 +1,1 @@
+braintree = Npm.require('braintree');
